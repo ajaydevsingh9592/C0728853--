@@ -10,6 +10,7 @@ namespace C0728853_
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("hello World");
         }
     }
 }
